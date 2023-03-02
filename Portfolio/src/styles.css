@@ -1,0 +1,44 @@
+/* You can add global styles to this file, and also import other style files */
+
+  body{
+    background-image:url('src\assets\img\homepagebg.jpg'); 
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 2000px;
+    font-family: Dopestyle;
+    margin: 0;
+}  
+
+
+
+
+
+.alignt-top{
+    vertical-align: bottom;
+}
+
+.brand-name  {
+    font-size: 1.5rem;
+    vertical-align: center;
+}
+
+a.dropdown-item{
+    text-align: justify;
+    align-items: center;
+    padding-right: 5rem;
+}
+
+/* ul.dropdown-menu.show{
+    padding-right: 1px;
+} */
+
+.container{
+    width: 100%;
+    margin-left: 20px;
+}
+
+.navbar-brand {
+    margin:0;
+    padding: 0;
+}
+
